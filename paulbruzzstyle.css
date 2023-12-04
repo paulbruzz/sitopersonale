@@ -1,0 +1,26 @@
+body{
+  background-image: url('universe.gif');
+  background-size: cover;
+  color: #d3d3d3;
+  font-size: 125%;
+}
+.warning-construction{
+  padding: 1%;
+  background-color: #e0472b;
+  color: black;
+}
+.body-wrapper{
+  padding: 1%;
+}
+.nav-wrapper{
+  padding: 1%;
+  background-color: #f7af7c;
+  color: black;
+}
+.footer-wrapper{
+  padding: 1%;
+  background-color: #f7af7c;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}

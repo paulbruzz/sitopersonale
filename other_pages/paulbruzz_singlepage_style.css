@@ -4,6 +4,12 @@ body{
   color: #d3d3d3;
   font-size: 125%;
 }
+footer{
+  clear: both;
+}
+q{
+  font-family: monospace;
+}
 .warning-construction{
   padding: 1%;
   background-color: #e0472b;
@@ -11,6 +17,14 @@ body{
 }
 .body-wrapper{
   padding: 1%;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 2%;
+  border-color: #3137fd;
+  background: rgba(12, 10, 16, 0.8);
+  max-width: 100vh;
+  margin: auto;
+  float: left;
 }
 .nav-wrapper{
   padding: 1%;
@@ -23,7 +37,9 @@ body{
   color: black;
   font-weight: bold;
   text-align: center;
+  z-index: 1;
 }
-q{
-  font-family: monospace;
+.sovereign-quote{
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
 }

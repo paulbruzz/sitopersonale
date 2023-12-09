@@ -19,6 +19,7 @@ p{
   color: black;
 }
 .body-wrapper{
+  width: 100vh;
   padding: 1%;
   border-style: solid;
   border-width: medium;

@@ -10,6 +10,9 @@ footer{
 q{
   font-family: monospace;
 }
+p{
+  text-align: justify;
+}
 .warning-construction{
   padding: 1%;
   background-color: #e0472b;
@@ -42,4 +45,9 @@ q{
 .sovereign-quote{
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
+}
+.image-caption{
+  text-align: center;
+  font-size: 75%;
+  padding-top: 0.5vh;
 }
